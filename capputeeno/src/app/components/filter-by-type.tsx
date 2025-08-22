@@ -4,10 +4,6 @@ import { useFilter } from "@/hooks/useFilter";
 import { FilterType } from "@/types/filter-types";
 import styled from "styled-components";
 
-interface FilterByTypeProps{
-
-}
-
 interface FilterItemProps{
     selected: boolean;
 }
@@ -36,7 +32,7 @@ const FilterItem = styled.li<FilterItemProps>`
     cursor: pointer;
 `
 
-export function FilterByType(props: FilterByTypeProps){
+export function FilterByType(){
     const {type,setType} = useFilter();
 
     const handleChangeType = (value: FilterType) => {
