@@ -2,7 +2,7 @@
 
 > **Importante:** Substitua o link abaixo por uma captura de tela ou GIF do seu projeto finalizado! Isso valoriza muito mais o seu trabalho.
 
-![Prévia da Aplicação](httpsd://storage.googleapis.com/xesque-dev/challenge-images/prototipo.png?42)
+![Protótipo](https://storage.googleapis.com/xesque-dev/challenge-images/prototipo.png?42)
 
 ## 📄 Sobre o Projeto
 
