@@ -45,7 +45,6 @@ Antes de começar, você vai precisar ter instalado:
 ### Passo a Passo
 
 **1. Clone o repositório:**
-```bash
 git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
 
 **2. Inicie a API (Back-end):
