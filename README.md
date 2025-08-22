@@ -1,7 +1,5 @@
 # Capputeeno - Desafio E-commerce Front-end 🚀
 
-> **Importante:** Substitua o link abaixo por uma captura de tela ou GIF do seu projeto finalizado! Isso valoriza muito mais o seu trabalho.
-
 ![Protótipo](https://storage.googleapis.com/xesque-dev/challenge-images/prototipo.png?42)
 
 ## 📄 Sobre o Projeto
@@ -9,12 +7,6 @@
 Este projeto é a implementação de um e-commerce funcional, desenvolvido a partir de um desafio de front-end proposto pela Rocketseat. O objetivo principal foi a construção de uma interface moderna, responsiva e performática em **Next.js**, consumindo dados de uma **API GraphQL** local.
 
 A aplicação permite aos usuários navegar por um catálogo de produtos, aplicar filtros e ordenações, buscar itens específicos e gerenciar um carrinho de compras.
-
-## 🛰️ Aplicação ao Vivo (Deploy)
-
-> **Dica:** Se você fez o deploy do projeto na Vercel ou em outro serviço, coloque o link aqui!
->
-> [Acesse a demonstração ao vivo aqui!](SEU_LINK_DE_DEPLOY_AQUI)
 
 ## ✨ Principais Funcionalidades
 
